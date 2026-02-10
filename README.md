@@ -149,7 +149,7 @@ Run experiments on progressively larger networks and record:
 The matrix has O(1) edge lookup. Measure the speedup:
 
 ```python
-# Test code is in benchmark_edge_queries()
+# Test code is in benchmark_edge_queries() # In the C program
 # Run 10,000 random edge existence checks
 ```
 
